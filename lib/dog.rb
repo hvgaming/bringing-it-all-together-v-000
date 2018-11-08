@@ -6,7 +6,7 @@ class Dog
    	  @id, @name, @breed = id, name, breed
   end
   
-   def find.create_table 
+   def self.create_table 
      
    end
   
